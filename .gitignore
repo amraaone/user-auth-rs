@@ -15,3 +15,7 @@ Cargo.lock
 
 # Remove Jetbrains config folder .idea
 .idea
+
+# environment files
+.env
+.env.sample
